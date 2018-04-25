@@ -1,5 +1,5 @@
 {
-    "name": "smith-carson/prosperworks-sdk",
+    "name": "RickKukiela/prosperworks-sdk",
     "description": "Unofficial (but pretty decent) SDK for the ProsperWorks CRM API",
     "keywords": ["prosperworks","crm","sdk","api-sdk","guzzle"],
     "type": "library",
